@@ -11,6 +11,12 @@
       "text": "School Appointment",
       "day": "Feb 6th at 1:30pm",
       "reminder": true
+    },
+    {
+      "text": "Take Test",
+      "day": "Monday",
+      "reminder": false,
+      "id": 3
     }
   ]
 }
